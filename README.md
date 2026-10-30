@@ -1,0 +1,2 @@
+# Snake-con-matriz-de-LEDs-y-control-por-p-gina-web
+El proyecto es un Snake jugable, controlado desde una página web, construido sobre una placa ESP8266 (NodeMCU) con cuatro tipos de componentes distintos: una matriz de LEDs 8x8 (driver MAX7219) que muestra la partida en tiempo real, una pantalla OLED (I2C, SSD1306) que replica el tablero y la puntuación, dos LEDs individuales y un zumbador pasivo.
